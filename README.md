@@ -52,6 +52,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🖥️ Most used line of code `console.log("Hello World!")`. <br/>
 - 🤔 I’m looking for people who can help me with Outstanding Programming ideas and executions. <br/>
 - 👯 I’m looking to collaborate on contribute to `Open Source project`. <br/>
+- 🤔 I’m looking for help with how to excel in Cyber-Security<br>
 
 ---
 ### 💻 Tech Stack:
@@ -123,13 +124,30 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sreekanthpaatil&theme=dark&background=000000&display=inline)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekanthpaatil&layout=compact&theme=vision-friendly-dark&display=inline)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=sreekanthpaatil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&layout=compact&locale=en&hide_border=false" height="150" display="inline-block" alt="stats graph" />
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sreekanthpaatil&theme=redical&hide_border=true)
+
+<p align="center">
+<a href="https://leetcode.com/Sreekanth_paatil">
+<img width="40%" src="https://leetcode.card.workers.dev/Sreekanth_paatil?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sreekanthpaatil">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreekanthpaatil&theme=github_dark" />
+    
+   
+</a>
+</p>
+
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreekanthpaatil&show_icons=true&theme=radical"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-readme-stats.vercel.app/api?username=sreekanthpaatil&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreekanthpaatil&langs_count=8&theme=radical&layout=compact">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreekanthpaatil&theme=radical">
+</p>
 
 
 
