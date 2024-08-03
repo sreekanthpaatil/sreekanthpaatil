@@ -124,30 +124,23 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sreekanthpaatil&theme=redical&hide_border=true)
-
-<p align="center">
-<a href="https://leetcode.com/Sreekanth_paatil">
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreekanthpaatil&show_icons=true&theme=github_dark"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-readme-stats.vercel.app/api?username=sreekanthpaatil&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreekanthpaatil&langs_count=8&theme=radical&layout=compact">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreekanthpaatil&theme=radical">
+  <a href="https://leetcode.com/Sreekanth_paatil">
 <img width="40%" src="https://leetcode.card.workers.dev/Sreekanth_paatil?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
 </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sreekanthpaatil">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreekanthpaatil&theme=github_dark" />
-    
-   
-</a>
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sreekanthpaatil&theme=redical&hide_border=true)
 
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreekanthpaatil&show_icons=true&theme=radical"  display=block width=100% height=auto  alt="1" >
-<img src="https://github-readme-stats.vercel.app/api?username=sreekanthpaatil&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreekanthpaatil&langs_count=8&theme=radical&layout=compact">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreekanthpaatil&theme=radical">
-</p>
+
+
+
+
+
 
 
 
