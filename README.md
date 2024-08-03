@@ -122,13 +122,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sreekanthpaatil&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekanthpaatil&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sreekanthpaatil&theme=dark&background=000000&display=inline)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=sreekanthpaatil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&layout=compact&locale=en&hide_border=false" height="150" alt="stats graph" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekanthpaatil&layout=compact&theme=vision-friendly-dark&display=inline)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=sreekanthpaatil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&layout=compact&locale=en&hide_border=false" height="150" display="inline-block" alt="stats graph" />
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sreekanthpaatil&theme=redical&hide_border=true)
+
 
 
 
