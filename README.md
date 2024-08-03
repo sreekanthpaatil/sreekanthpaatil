@@ -65,6 +65,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="67" height="67" />
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="67" height="67" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="67" height="67" />
+<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="67" height="67" />
+<img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="67" height="67" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="67" height="67" />
+
 
 <img align="right" alt="coding" width="200" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
