@@ -54,6 +54,23 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 👯 I’m looking to collaborate on contribute to `Open Source project`. <br/>
 
 ---
+### 💻 Tech Stack:
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="67" height="67" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="67" height="67" />
+<img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="67" height="67" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="67" height="67" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="67" height="67" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="67" height="67" />
+
+<img align="right" alt="coding" width="200" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
+
+</div>
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
