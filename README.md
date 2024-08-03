@@ -9,6 +9,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=6495ED&vCenter=true&pause=1000&size=22" />
+</p>
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,11 +24,18 @@
 
 <img src="https://komarev.com/ghpvc/?username=sreekanthpaatil&style=flat-square&color=blue" alt=""/>
 
+### Visitor's Count:
+
+<a align="center" href="https://profile-counter.glitch.me/{Avinash905}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{sreekanthpaatil}/count.svg)  
+</a>
 
 
 
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+
 
 
 
@@ -34,6 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - ❤️ I enjoy learn & explore programming and sharing knowledge. <br/>
+- 🌱 I’m currently learning DSA
 - 🖥️ Most used line of code `console.log("Hello World!")`. <br/>
 - 🤔 I’m looking for people who can help me with Outstanding Programming ideas and executions. <br/>
 - 👯 I’m looking to collaborate on contribute to `Open Source project`. <br/>
