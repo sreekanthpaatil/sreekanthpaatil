@@ -73,6 +73,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Fitness Tracking app Medium](https://medium.com/@sreekanthpaatil/fitness-tracking-app-with-mern-stack-tech-cdfe596da2ce)
+- [Fitness Tracking app Hashnode](https://sreekanth1729.hashnode.dev/fitness-tracking-app-with-mern-stack-tech)
+<!-- BLOG-POST-LIST:END -->
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sreekanthpaatil&theme=dark&background=000000)](https://git.io/streak-stats)
