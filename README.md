@@ -33,6 +33,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- ❤️ I enjoy learn & explore programming and sharing knowledge. <br/>
+- 🖥️ Most used line of code `console.log("Hello World!")`. <br/>
+- 🤔 I’m looking for people who can help me with Outstanding Programming ideas and executions. <br/>
+- 👯 I’m looking to collaborate on contribute to `Open Source project`. <br/>
 
 ---
 
