@@ -114,11 +114,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-### 📚 Latest Blog Posts :
+### 📚 Latest Blog Posts & Coding Platforms :
 
 
 - [Medium](https://medium.com/@sreekanthpaatil)
 - [Hashnode](https://sreekanth1729.hashnode.dev/?source=top_nav_blog_home)
+- [Geeksforgeeks](https://www.geeksforgeeks.org/user/sreekant0t9u/)
+- [CodeChef](https://www.codechef.com/users/lively_luck_62)
+- [HackerRank](https://www.hackerrank.com/profile/sreekanthpaatil)
+- [Exercism](https://exercism.org/profiles/intro)
+- [FreeCodeCamp](https://www.freecodecamp.org/fcc7fc5d3a8)
+- [CodeForces](https://codeforces.com/profile/sreekanthpaatil)
+- [Topcoder](https://profiles.topcoder.com/sreekanth1729)
+- [Hackerearth](https://www.hackerearth.com/@sreekanthpaatil)
 
 ---
 
@@ -129,8 +137,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github-readme-stats.vercel.app/api?username=sreekanthpaatil&show_icons=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreekanthpaatil&langs_count=8&theme=radical&layout=compact">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreekanthpaatil&theme=radical">
-  <a href="https://leetcode.com/Sreekanth_paatil">
+<a href="https://leetcode.com/Sreekanth_paatil">
 <img width="40%" src="https://leetcode.card.workers.dev/Sreekanth_paatil?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+</a>
+  <a href="https://www.codechef.com/users/lively_luck_62">
+<img width="40%" src="https://www.codechef.com/users/lively_luck_62?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
 </a>
 </p>
 
