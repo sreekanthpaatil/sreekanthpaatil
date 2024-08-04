@@ -117,8 +117,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 📚 Latest Blog Posts :
 
 
-- [Fitness Tracking app Medium](https://medium.com/@sreekanthpaatil/fitness-tracking-app-with-mern-stack-tech-cdfe596da2ce)
-- [Fitness Tracking app Hashnode](https://sreekanth1729.hashnode.dev/fitness-tracking-app-with-mern-stack-tech)
+- [Medium](https://medium.com/@sreekanthpaatil)
+- [Hashnode](https://sreekanth1729.hashnode.dev/?source=top_nav_blog_home)
 
 ---
 
