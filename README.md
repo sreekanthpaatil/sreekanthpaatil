@@ -142,7 +142,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </a>
 
 </p>
-<img width="50%" src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sreekant0t9u&theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+<img width="40%" src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sreekant0t9u&theme=dark&font=baloo&extension=null&border=2&border_radius=8">
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sreekanthpaatil&theme=redical&hide_border=true)
 
