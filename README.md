@@ -140,10 +140,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://leetcode.com/Sreekanth_paatil">
 <img width="40%" src="https://leetcode.card.workers.dev/Sreekanth_paatil?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
 </a>
-  <a href="https://www.codechef.com/users/lively_luck_62">
-<img width="40%" src="https://www.codechef.com/users/lively_luck_62?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
-</a>
+
 </p>
+<img width="50%" src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sreekant0t9u&theme=dark&font=baloo&extension=null&border=2&border_radius=8">
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sreekanthpaatil&theme=redical&hide_border=true)
 
